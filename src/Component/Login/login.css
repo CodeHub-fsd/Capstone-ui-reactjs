@@ -1,0 +1,13 @@
+.vehicleLogo{
+    margin-right: 2em;
+}
+
+
+.FrontPage{
+ 
+    background-color: cadetblue;
+    height: 15vh;
+    width: 100%;
+    position: fixed;
+    border-top: 2px solid coral;
+}
